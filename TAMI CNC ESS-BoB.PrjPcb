@@ -57,12 +57,16 @@ GenerateClassCluster=0
 DocumentUniqueId=OKFBHKTD
 
 [Parameter1]
-Name=PcbPartNumber
-Value=
-
-[Parameter2]
 Name=ProjectVersion
 Value=v1.0
+
+[Parameter2]
+Name=ProjectTitle
+Value=TAMI CNC - ESS Breakout Board
+
+[Parameter3]
+Name=PcbPartNumber
+Value=
 
 [Configuration1]
 Name=Default Configuration
