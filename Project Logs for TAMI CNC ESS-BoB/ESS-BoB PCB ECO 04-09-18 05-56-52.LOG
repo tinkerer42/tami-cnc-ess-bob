@@ -1,0 +1,798 @@
+Added Component: Designator=C1(CAPPR3.5-8x12)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ESR"; Value = "TBD mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "TBD %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPPR2-5x11)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ESR"; Value = "TBD mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "TBD %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ESR"; Value = "TBD mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "TBD %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "TBD V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ESR"; Value = "TBD mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "TBD %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "TBD V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ESR"; Value = "TBD mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "TBD %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "TBD V"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED-3MM-RED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED-3MM-RED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(Samtec ESQ-113-33-G-D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Applications"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category 1"; Value = "Connectors, Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://suddendocs.samtec.com/prints/esq-1xx-xx-x-x-xxx-xx-x-xx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://suddendocs.samtec.com/prints/esq-1xx-xx-x-x-xxx-xx-x-xx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Elevated Socket"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Post"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness - Mating"; Value = "20.0µin (0.51µm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness - Post"; Value = "3.00µin (0.076µm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Length - Post"; Value = "0.090" (2.29mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Phosphor Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Forked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "5.7A per Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "ELEVATED SOCKET STRIPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Push-Pull"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ingress Protection"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "0.635" (16.13mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Liquid Crystal Polymer (LCP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ESQ-113-33-G-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated Stacking Heights"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch - Mating"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=6.24, 10=5.28, 100=4.08, 500=3.36, 1000=3.12 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS 1"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing - Mating"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Board to Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SAM11103-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "550VAC"; VariantName = "[No Variations]"
+Added Component: Designator=J2(Samtec ESQ-113-33-G-D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Applications"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category 1"; Value = "Connectors, Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://suddendocs.samtec.com/prints/esq-1xx-xx-x-x-xxx-xx-x-xx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://suddendocs.samtec.com/prints/esq-1xx-xx-x-x-xxx-xx-x-xx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Elevated Socket"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Post"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness - Mating"; Value = "20.0µin (0.51µm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness - Post"; Value = "3.00µin (0.076µm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Length - Post"; Value = "0.090" (2.29mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Phosphor Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Forked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "5.7A per Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "ELEVATED SOCKET STRIPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Push-Pull"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ingress Protection"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "0.635" (16.13mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Liquid Crystal Polymer (LCP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ESQ-113-33-G-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated Stacking Heights"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch - Mating"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=6.24, 10=5.28, 100=4.08, 500=3.36, 1000=3.12 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS 1"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing - Mating"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Board to Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SAM11103-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "550VAC"; VariantName = "[No Variations]"
+Added Component: Designator=J3(Samtec ESQ-113-33-G-D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Applications"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category 1"; Value = "Connectors, Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://suddendocs.samtec.com/prints/esq-1xx-xx-x-x-xxx-xx-x-xx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://suddendocs.samtec.com/prints/esq-1xx-xx-x-x-xxx-xx-x-xx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Elevated Socket"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Post"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness - Mating"; Value = "20.0µin (0.51µm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness - Post"; Value = "3.00µin (0.076µm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Length - Post"; Value = "0.090" (2.29mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Phosphor Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Forked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "5.7A per Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "ELEVATED SOCKET STRIPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Push-Pull"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ingress Protection"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "0.635" (16.13mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Liquid Crystal Polymer (LCP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ESQ-113-33-G-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated Stacking Heights"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch - Mating"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=6.24, 10=5.28, 100=4.08, 500=3.36, 1000=3.12 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS 1"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing - Mating"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Board to Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SAM11103-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "550VAC"; VariantName = "[No Variations]"
+Added Component: Designator=J4(D-SUB-15 TH RA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J5(D-SUB-15 TH RA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J6(D-SUB-15 TH RA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J7(Modular Screw Terminals 5.08mm 2p RA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J8(Modular Screw Terminals 5.08mm 2p RA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J9(Modular Screw Terminals 5.08mm 2p RA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J10(Modular Screw Terminals 5.08mm 2p RA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J11(Modular Screw Terminals 5.08mm 2p RA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J12(Modular Screw Terminals 5.08mm 2p RA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J13(Modular Screw Terminals 5.08mm 2p RA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J14(Modular Screw Terminals 5.08mm 2p RA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J15(Modular Screw Terminals 5.08mm 2p RA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J16(Modular Screw Terminals 5.08mm 3p RA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J17(Modular Screw Terminals 5.08mm 10p RA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J18(D-SUB-9 TH RA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP1(Header 2.54mm 3p TH Vertical)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP2(Header 2.54mm 3p TH Vertical)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP3(Header 2.54mm 3p TH Vertical)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP4(Header 2.54mm 3p TH Vertical)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP5(Header 2.54mm 3p TH Vertical)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP6(Header 2.54mm 3p TH Vertical)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K1(TE_RELAY_V23079_TH)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_Switching_Voltage_Max"; Value = "250 VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1393788-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-8 TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.94 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product_Type"; Value = "Relay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Relay_Type"; Value = "P2 Relay V23079"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1393788-3/TE%2520Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC6332N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category 1"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.bourns.com/docs/Product-Datasheets/CRM.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/docs/Product-Datasheets/CRM.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "RES SMD 47 OHM 5% 2W 2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Current Sense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.032" (0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CRM2512-JW-470ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "2512 (6432 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.39, 10=0.301, 25=0.2292, 50=0.1702, 100=0.1266, 250=0.10696, 500=0.09168, 1000=0.06985 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS 1"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.248" L x 0.122" W (6.30mm x 3.10mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CRM2512-JW-470ELFCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Power Rating"; Value = "TBD W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "TBD%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "680"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Power Rating"; Value = "TBD W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "TBD%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Power Rating"; Value = "TBD W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "TBD%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP2(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP3(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP4(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP5(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP6(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP7(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP8(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP9(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP10(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP11(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP12(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP13(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP14(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP15(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP16(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP17(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP18(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP19(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP20(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP21(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP22(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP23(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP24(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP25(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP26(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP27(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP28(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP29(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP30(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP31(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP32(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP33(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP34(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP35(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP36(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP37(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP38(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP39(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP40(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP41(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP42(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP43(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP44(TP_LOOP_1MM - WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP45(TP_LOOP_1MM - BLACK)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(TI D016_M (SOIC16))
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(TI D016_M (SOIC16))
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3(TI D016_M (SOIC16))
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V Pin=C2-1
+Added Pin To Net: NetName=5V Pin=J1-26
+Added Pin To Net: NetName=5V Pin=J2-26
+Added Pin To Net: NetName=5V Pin=J3-26
+Added Pin To Net: NetName=5V Pin=J17-9
+Added Pin To Net: NetName=5V Pin=R1-2
+Added Pin To Net: NetName=5V Pin=R2-2
+Added Pin To Net: NetName=5V Pin=TP43-1
+Added Net: Name=5V
+Added Pin To Net: NetName=24V Pin=C1-1
+Added Pin To Net: NetName=24V Pin=C3-2
+Added Pin To Net: NetName=24V Pin=C4-2
+Added Pin To Net: NetName=24V Pin=C5-2
+Added Pin To Net: NetName=24V Pin=J4-1
+Added Pin To Net: NetName=24V Pin=J5-1
+Added Pin To Net: NetName=24V Pin=J6-1
+Added Pin To Net: NetName=24V Pin=J7-1
+Added Pin To Net: NetName=24V Pin=K1-1
+Added Pin To Net: NetName=24V Pin=R3-2
+Added Pin To Net: NetName=24V Pin=TP44-1
+Added Pin To Net: NetName=24V Pin=U1-9
+Added Pin To Net: NetName=24V Pin=U2-9
+Added Pin To Net: NetName=24V Pin=U3-9
+Added Net: Name=24V
+Added Pin To Net: NetName=\X_SV_ON Pin=J4-3
+Added Pin To Net: NetName=\X_SV_ON Pin=U1-16
+Added Net: Name=\X_SV_ON
+Added Pin To Net: NetName=\Y_SV_ON Pin=J5-3
+Added Pin To Net: NetName=\Y_SV_ON Pin=U2-16
+Added Net: Name=\Y_SV_ON
+Added Pin To Net: NetName=\Z_SV_ON Pin=J6-3
+Added Pin To Net: NetName=\Z_SV_ON Pin=U3-16
+Added Net: Name=\Z_SV_ON
+Added Pin To Net: NetName=AUX_IO_1_5V Pin=J3-2
+Added Pin To Net: NetName=AUX_IO_1_5V Pin=J17-1
+Added Net: Name=AUX_IO_1_5V
+Added Pin To Net: NetName=AUX_IO_2_5V Pin=J3-3
+Added Pin To Net: NetName=AUX_IO_2_5V Pin=J17-2
+Added Net: Name=AUX_IO_2_5V
+Added Pin To Net: NetName=AUX_IO_3_5V Pin=J3-4
+Added Pin To Net: NetName=AUX_IO_3_5V Pin=J17-3
+Added Net: Name=AUX_IO_3_5V
+Added Pin To Net: NetName=AUX_IO_4_5V Pin=J3-5
+Added Pin To Net: NetName=AUX_IO_4_5V Pin=J17-4
+Added Net: Name=AUX_IO_4_5V
+Added Pin To Net: NetName=AUX_IO_5_5V Pin=J3-6
+Added Pin To Net: NetName=AUX_IO_5_5V Pin=J17-5
+Added Net: Name=AUX_IO_5_5V
+Added Pin To Net: NetName=AUX_IO_6_5V Pin=J3-7
+Added Pin To Net: NetName=AUX_IO_6_5V Pin=J17-6
+Added Net: Name=AUX_IO_6_5V
+Added Pin To Net: NetName=AUX_IO_7_5V Pin=J3-8
+Added Pin To Net: NetName=AUX_IO_7_5V Pin=J17-7
+Added Net: Name=AUX_IO_7_5V
+Added Pin To Net: NetName=AUX_IO_8_5V Pin=J3-9
+Added Pin To Net: NetName=AUX_IO_8_5V Pin=J17-8
+Added Net: Name=AUX_IO_8_5V
+Added Pin To Net: NetName=AUX_OUT_1_5V Pin=J3-1
+Added Pin To Net: NetName=AUX_OUT_1_5V Pin=U1-4
+Added Net: Name=AUX_OUT_1_5V
+Added Pin To Net: NetName=AUX_OUT_1_24V Pin=J8-1
+Added Pin To Net: NetName=AUX_OUT_1_24V Pin=U1-13
+Added Net: Name=AUX_OUT_1_24V
+Added Pin To Net: NetName=AUX_OUT_2_5V Pin=J3-14
+Added Pin To Net: NetName=AUX_OUT_2_5V Pin=U1-5
+Added Net: Name=AUX_OUT_2_5V
+Added Pin To Net: NetName=AUX_OUT_2_24V Pin=J9-1
+Added Pin To Net: NetName=AUX_OUT_2_24V Pin=U1-12
+Added Net: Name=AUX_OUT_2_24V
+Added Pin To Net: NetName=AUX_OUT_3_5V Pin=J3-16
+Added Pin To Net: NetName=AUX_OUT_3_5V Pin=U1-6
+Added Net: Name=AUX_OUT_3_5V
+Added Pin To Net: NetName=AUX_OUT_3_24V Pin=J10-1
+Added Pin To Net: NetName=AUX_OUT_3_24V Pin=U1-11
+Added Net: Name=AUX_OUT_3_24V
+Added Pin To Net: NetName=AUX_OUT_4_5V Pin=J3-17
+Added Pin To Net: NetName=AUX_OUT_4_5V Pin=U1-7
+Added Net: Name=AUX_OUT_4_5V
+Added Pin To Net: NetName=AUX_OUT_4_24V Pin=J11-1
+Added Pin To Net: NetName=AUX_OUT_4_24V Pin=U1-10
+Added Net: Name=AUX_OUT_4_24V
+Added Pin To Net: NetName=AUX_OUT_5_5V Pin=J2-1
+Added Pin To Net: NetName=AUX_OUT_5_5V Pin=U2-4
+Added Net: Name=AUX_OUT_5_5V
+Added Pin To Net: NetName=AUX_OUT_5_24V Pin=J12-1
+Added Pin To Net: NetName=AUX_OUT_5_24V Pin=U2-13
+Added Net: Name=AUX_OUT_5_24V
+Added Pin To Net: NetName=AUX_OUT_6_5V Pin=J2-14
+Added Pin To Net: NetName=AUX_OUT_6_5V Pin=U2-5
+Added Net: Name=AUX_OUT_6_5V
+Added Pin To Net: NetName=AUX_OUT_6_24V Pin=J13-1
+Added Pin To Net: NetName=AUX_OUT_6_24V Pin=U2-12
+Added Net: Name=AUX_OUT_6_24V
+Added Pin To Net: NetName=AUX_OUT_7_5V Pin=J2-16
+Added Pin To Net: NetName=AUX_OUT_7_5V Pin=U2-6
+Added Net: Name=AUX_OUT_7_5V
+Added Pin To Net: NetName=AUX_OUT_7_24V Pin=J14-1
+Added Pin To Net: NetName=AUX_OUT_7_24V Pin=U2-11
+Added Net: Name=AUX_OUT_7_24V
+Added Pin To Net: NetName=AUX_OUT_8_5V Pin=J2-17
+Added Pin To Net: NetName=AUX_OUT_8_5V Pin=U2-7
+Added Net: Name=AUX_OUT_8_5V
+Added Pin To Net: NetName=AUX_OUT_8_24V Pin=J15-1
+Added Pin To Net: NetName=AUX_OUT_8_24V Pin=U2-10
+Added Net: Name=AUX_OUT_8_24V
+Added Pin To Net: NetName=CHASSIS_GND Pin=J4-Z1
+Added Pin To Net: NetName=CHASSIS_GND Pin=J4-Z2
+Added Pin To Net: NetName=CHASSIS_GND Pin=J5-Z1
+Added Pin To Net: NetName=CHASSIS_GND Pin=J5-Z2
+Added Pin To Net: NetName=CHASSIS_GND Pin=J6-Z1
+Added Pin To Net: NetName=CHASSIS_GND Pin=J6-Z2
+Added Pin To Net: NetName=CHASSIS_GND Pin=J18-9
+Added Pin To Net: NetName=CHASSIS_GND Pin=J18-Z1
+Added Pin To Net: NetName=CHASSIS_GND Pin=J18-Z2
+Added Pin To Net: NetName=CHASSIS_GND Pin=R4-2
+Added Net: Name=CHASSIS_GND
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=D1-K
+Added Pin To Net: NetName=GND Pin=D2-K
+Added Pin To Net: NetName=GND Pin=J1-18
+Added Pin To Net: NetName=GND Pin=J1-19
+Added Pin To Net: NetName=GND Pin=J1-20
+Added Pin To Net: NetName=GND Pin=J1-21
+Added Pin To Net: NetName=GND Pin=J1-22
+Added Pin To Net: NetName=GND Pin=J1-23
+Added Pin To Net: NetName=GND Pin=J1-24
+Added Pin To Net: NetName=GND Pin=J1-25
+Added Pin To Net: NetName=GND Pin=J2-18
+Added Pin To Net: NetName=GND Pin=J2-19
+Added Pin To Net: NetName=GND Pin=J2-20
+Added Pin To Net: NetName=GND Pin=J2-21
+Added Pin To Net: NetName=GND Pin=J2-22
+Added Pin To Net: NetName=GND Pin=J2-23
+Added Pin To Net: NetName=GND Pin=J2-24
+Added Pin To Net: NetName=GND Pin=J2-25
+Added Pin To Net: NetName=GND Pin=J3-18
+Added Pin To Net: NetName=GND Pin=J3-19
+Added Pin To Net: NetName=GND Pin=J3-20
+Added Pin To Net: NetName=GND Pin=J3-21
+Added Pin To Net: NetName=GND Pin=J3-22
+Added Pin To Net: NetName=GND Pin=J3-23
+Added Pin To Net: NetName=GND Pin=J3-24
+Added Pin To Net: NetName=GND Pin=J3-25
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-7
+Added Pin To Net: NetName=GND Pin=J4-9
+Added Pin To Net: NetName=GND Pin=J4-11
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-7
+Added Pin To Net: NetName=GND Pin=J5-9
+Added Pin To Net: NetName=GND Pin=J5-11
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-7
+Added Pin To Net: NetName=GND Pin=J6-9
+Added Pin To Net: NetName=GND Pin=J6-11
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Pin To Net: NetName=GND Pin=J11-2
+Added Pin To Net: NetName=GND Pin=J12-2
+Added Pin To Net: NetName=GND Pin=J13-2
+Added Pin To Net: NetName=GND Pin=J14-2
+Added Pin To Net: NetName=GND Pin=J15-2
+Added Pin To Net: NetName=GND Pin=J17-10
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=TP45-1
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=R2-1
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=R3-1
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetJ1_10 Pin=J1-10
+Added Pin To Net: NetName=NetJ1_10 Pin=TP10-1
+Added Net: Name=NetJ1_10
+Added Pin To Net: NetName=NetJ1_11 Pin=J1-11
+Added Pin To Net: NetName=NetJ1_11 Pin=TP11-1
+Added Net: Name=NetJ1_11
+Added Pin To Net: NetName=NetJ1_12 Pin=J1-12
+Added Pin To Net: NetName=NetJ1_12 Pin=TP12-1
+Added Net: Name=NetJ1_12
+Added Pin To Net: NetName=NetJ1_13 Pin=J1-13
+Added Pin To Net: NetName=NetJ1_13 Pin=TP13-1
+Added Net: Name=NetJ1_13
+Added Pin To Net: NetName=NetJ1_14 Pin=J1-14
+Added Pin To Net: NetName=NetJ1_14 Pin=TP6-1
+Added Net: Name=NetJ1_14
+Added Pin To Net: NetName=NetJ1_15 Pin=J1-15
+Added Pin To Net: NetName=NetJ1_15 Pin=TP7-1
+Added Net: Name=NetJ1_15
+Added Pin To Net: NetName=NetJ1_16 Pin=J1-16
+Added Pin To Net: NetName=NetJ1_16 Pin=TP8-1
+Added Net: Name=NetJ1_16
+Added Pin To Net: NetName=NetJ1_17 Pin=J1-17
+Added Pin To Net: NetName=NetJ1_17 Pin=TP9-1
+Added Net: Name=NetJ1_17
+Added Pin To Net: NetName=NetJ2_8 Pin=J2-8
+Added Pin To Net: NetName=NetJ2_8 Pin=TP20-1
+Added Net: Name=NetJ2_8
+Added Pin To Net: NetName=NetJ2_9 Pin=J2-9
+Added Pin To Net: NetName=NetJ2_9 Pin=TP21-1
+Added Net: Name=NetJ2_9
+Added Pin To Net: NetName=NetJ2_10 Pin=J2-10
+Added Pin To Net: NetName=NetJ2_10 Pin=TP22-1
+Added Net: Name=NetJ2_10
+Added Pin To Net: NetName=NetJ2_11 Pin=J2-11
+Added Pin To Net: NetName=NetJ2_11 Pin=TP23-1
+Added Net: Name=NetJ2_11
+Added Pin To Net: NetName=NetJ2_12 Pin=J2-12
+Added Pin To Net: NetName=NetJ2_12 Pin=TP24-1
+Added Net: Name=NetJ2_12
+Added Pin To Net: NetName=NetJ2_13 Pin=J2-13
+Added Pin To Net: NetName=NetJ2_13 Pin=TP25-1
+Added Net: Name=NetJ2_13
+Added Pin To Net: NetName=NetJ2_15 Pin=J2-15
+Added Pin To Net: NetName=NetJ2_15 Pin=TP17-1
+Added Net: Name=NetJ2_15
+Added Pin To Net: NetName=NetJ3_10 Pin=J3-10
+Added Pin To Net: NetName=NetJ3_10 Pin=TP38-1
+Added Net: Name=NetJ3_10
+Added Pin To Net: NetName=NetJ3_11 Pin=J3-11
+Added Pin To Net: NetName=NetJ3_11 Pin=TP39-1
+Added Net: Name=NetJ3_11
+Added Pin To Net: NetName=NetJ3_12 Pin=J3-12
+Added Pin To Net: NetName=NetJ3_12 Pin=TP41-1
+Added Net: Name=NetJ3_12
+Added Pin To Net: NetName=NetJ3_13 Pin=J3-13
+Added Pin To Net: NetName=NetJ3_13 Pin=TP42-1
+Added Net: Name=NetJ3_13
+Added Pin To Net: NetName=NetJ3_15 Pin=J3-15
+Added Pin To Net: NetName=NetJ3_15 Pin=TP26-1
+Added Net: Name=NetJ3_15
+Added Pin To Net: NetName=NetJ18_8 Pin=J18-8
+Added Pin To Net: NetName=NetJ18_8 Pin=R1-1
+Added Net: Name=NetJ18_8
+Added Pin To Net: NetName=NetTP27_1 Pin=TP27-1
+Added Pin To Net: NetName=NetTP27_1 Pin=U3-4
+Added Net: Name=NetTP27_1
+Added Pin To Net: NetName=NetTP28_1 Pin=TP28-1
+Added Pin To Net: NetName=NetTP28_1 Pin=U3-13
+Added Net: Name=NetTP28_1
+Added Pin To Net: NetName=NetTP30_1 Pin=TP30-1
+Added Pin To Net: NetName=NetTP30_1 Pin=U3-5
+Added Net: Name=NetTP30_1
+Added Pin To Net: NetName=NetTP31_1 Pin=TP31-1
+Added Pin To Net: NetName=NetTP31_1 Pin=U3-12
+Added Net: Name=NetTP31_1
+Added Pin To Net: NetName=NetTP32_1 Pin=TP32-1
+Added Pin To Net: NetName=NetTP32_1 Pin=U3-6
+Added Net: Name=NetTP32_1
+Added Pin To Net: NetName=NetTP33_1 Pin=TP33-1
+Added Pin To Net: NetName=NetTP33_1 Pin=U3-11
+Added Net: Name=NetTP33_1
+Added Pin To Net: NetName=NetTP35_1 Pin=TP35-1
+Added Pin To Net: NetName=NetTP35_1 Pin=U3-7
+Added Net: Name=NetTP35_1
+Added Pin To Net: NetName=NetTP36_1 Pin=TP36-1
+Added Pin To Net: NetName=NetTP36_1 Pin=U3-10
+Added Net: Name=NetTP36_1
+Added Pin To Net: NetName=X_AUX1 Pin=J4-12
+Added Pin To Net: NetName=X_AUX1 Pin=TP2-1
+Added Net: Name=X_AUX1
+Added Pin To Net: NetName=X_AUX2 Pin=J4-13
+Added Pin To Net: NetName=X_AUX2 Pin=TP3-1
+Added Net: Name=X_AUX2
+Added Pin To Net: NetName=X_AUX3 Pin=J4-14
+Added Pin To Net: NetName=X_AUX3 Pin=TP4-1
+Added Net: Name=X_AUX3
+Added Pin To Net: NetName=X_AUX4 Pin=J4-15
+Added Pin To Net: NetName=X_AUX4 Pin=TP5-1
+Added Net: Name=X_AUX4
+Added Pin To Net: NetName=X_BK+ Pin=J4-10
+Added Pin To Net: NetName=X_BK+ Pin=TP1-1
+Added Net: Name=X_BK+
+Added Pin To Net: NetName=X_DIR Pin=J1-2
+Added Pin To Net: NetName=X_DIR Pin=J4-8
+Added Net: Name=X_DIR
+Added Pin To Net: NetName=X_ENABLE Pin=J1-3
+Added Pin To Net: NetName=X_ENABLE Pin=U1-1
+Added Net: Name=X_ENABLE
+Added Pin To Net: NetName=X_FAR Pin=J2-3
+Added Pin To Net: NetName=X_FAR Pin=J18-2
+Added Pin To Net: NetName=X_FAR Pin=JP2-2
+Added Pin To Net: NetName=X_FAR Pin=R7-2
+Added Net: Name=X_FAR
+Added Pin To Net: NetName=X_N-OT Pin=J4-5
+Added Pin To Net: NetName=X_N-OT Pin=U1-14
+Added Net: Name=X_N-OT
+Added Pin To Net: NetName=X_NEAR Pin=J2-2
+Added Pin To Net: NetName=X_NEAR Pin=J18-1
+Added Pin To Net: NetName=X_NEAR Pin=JP1-2
+Added Pin To Net: NetName=X_NEAR Pin=R5-2
+Added Net: Name=X_NEAR
+Added Pin To Net: NetName=X_NEG_LIMIT Pin=JP1-3
+Added Pin To Net: NetName=X_NEG_LIMIT Pin=JP2-3
+Added Pin To Net: NetName=X_NEG_LIMIT Pin=U1-3
+Added Net: Name=X_NEG_LIMIT
+Added Pin To Net: NetName=X_P-OT Pin=J4-4
+Added Pin To Net: NetName=X_P-OT Pin=U1-15
+Added Net: Name=X_P-OT
+Added Pin To Net: NetName=X_POS_LIMIT Pin=JP1-1
+Added Pin To Net: NetName=X_POS_LIMIT Pin=JP2-1
+Added Pin To Net: NetName=X_POS_LIMIT Pin=U1-2
+Added Net: Name=X_POS_LIMIT
+Added Pin To Net: NetName=X_STEP Pin=J1-1
+Added Pin To Net: NetName=X_STEP Pin=J4-6
+Added Net: Name=X_STEP
+Added Pin To Net: NetName=Y_AUX1 Pin=J5-12
+Added Pin To Net: NetName=Y_AUX1 Pin=TP15-1
+Added Net: Name=Y_AUX1
+Added Pin To Net: NetName=Y_AUX2 Pin=J5-13
+Added Pin To Net: NetName=Y_AUX2 Pin=TP16-1
+Added Net: Name=Y_AUX2
+Added Pin To Net: NetName=Y_AUX3 Pin=J5-14
+Added Pin To Net: NetName=Y_AUX3 Pin=TP18-1
+Added Net: Name=Y_AUX3
+Added Pin To Net: NetName=Y_AUX4 Pin=J5-15
+Added Pin To Net: NetName=Y_AUX4 Pin=TP19-1
+Added Net: Name=Y_AUX4
+Added Pin To Net: NetName=Y_BK+ Pin=J5-10
+Added Pin To Net: NetName=Y_BK+ Pin=TP14-1
+Added Net: Name=Y_BK+
+Added Pin To Net: NetName=Y_DIR Pin=J1-5
+Added Pin To Net: NetName=Y_DIR Pin=J5-8
+Added Net: Name=Y_DIR
+Added Pin To Net: NetName=Y_ENABLE Pin=J1-6
+Added Pin To Net: NetName=Y_ENABLE Pin=U2-1
+Added Net: Name=Y_ENABLE
+Added Pin To Net: NetName=Y_FAR Pin=J2-5
+Added Pin To Net: NetName=Y_FAR Pin=J18-4
+Added Pin To Net: NetName=Y_FAR Pin=JP4-2
+Added Pin To Net: NetName=Y_FAR Pin=R9-2
+Added Net: Name=Y_FAR
+Added Pin To Net: NetName=Y_N-OT Pin=J5-5
+Added Pin To Net: NetName=Y_N-OT Pin=U2-14
+Added Net: Name=Y_N-OT
+Added Pin To Net: NetName=Y_NEAR Pin=J2-4
+Added Pin To Net: NetName=Y_NEAR Pin=J18-3
+Added Pin To Net: NetName=Y_NEAR Pin=JP3-2
+Added Pin To Net: NetName=Y_NEAR Pin=R8-2
+Added Net: Name=Y_NEAR
+Added Pin To Net: NetName=Y_NEG_LIMIT Pin=JP3-3
+Added Pin To Net: NetName=Y_NEG_LIMIT Pin=JP4-3
+Added Pin To Net: NetName=Y_NEG_LIMIT Pin=U2-3
+Added Net: Name=Y_NEG_LIMIT
+Added Pin To Net: NetName=Y_P-OT Pin=J5-4
+Added Pin To Net: NetName=Y_P-OT Pin=U2-15
+Added Net: Name=Y_P-OT
+Added Pin To Net: NetName=Y_POS_LIMIT Pin=JP3-1
+Added Pin To Net: NetName=Y_POS_LIMIT Pin=JP4-1
+Added Pin To Net: NetName=Y_POS_LIMIT Pin=U2-2
+Added Net: Name=Y_POS_LIMIT
+Added Pin To Net: NetName=Y_STEP Pin=J1-4
+Added Pin To Net: NetName=Y_STEP Pin=J5-6
+Added Net: Name=Y_STEP
+Added Pin To Net: NetName=Z_AUX1 Pin=J6-12
+Added Pin To Net: NetName=Z_AUX1 Pin=TP29-1
+Added Net: Name=Z_AUX1
+Added Pin To Net: NetName=Z_AUX2 Pin=J6-13
+Added Pin To Net: NetName=Z_AUX2 Pin=TP34-1
+Added Net: Name=Z_AUX2
+Added Pin To Net: NetName=Z_AUX3 Pin=J6-14
+Added Pin To Net: NetName=Z_AUX3 Pin=TP37-1
+Added Net: Name=Z_AUX3
+Added Pin To Net: NetName=Z_AUX4 Pin=J6-15
+Added Pin To Net: NetName=Z_AUX4 Pin=TP40-1
+Added Net: Name=Z_AUX4
+Added Pin To Net: NetName=Z_BOTTOM Pin=J2-7
+Added Pin To Net: NetName=Z_BOTTOM Pin=J18-6
+Added Pin To Net: NetName=Z_BOTTOM Pin=JP6-2
+Added Pin To Net: NetName=Z_BOTTOM Pin=R6-2
+Added Net: Name=Z_BOTTOM
+Added Pin To Net: NetName=Z_BRAKE Pin=J6-10
+Added Pin To Net: NetName=Z_BRAKE Pin=K1-12
+Added Net: Name=Z_BRAKE
+Added Pin To Net: NetName=Z_BRK_COM Pin=J16-2
+Added Pin To Net: NetName=Z_BRK_COM Pin=K1-4
+Added Net: Name=Z_BRK_COM
+Added Pin To Net: NetName=Z_BRK_NC Pin=J16-3
+Added Pin To Net: NetName=Z_BRK_NC Pin=K1-3
+Added Net: Name=Z_BRK_NC
+Added Pin To Net: NetName=Z_BRK_NO Pin=J16-1
+Added Pin To Net: NetName=Z_BRK_NO Pin=K1-5
+Added Net: Name=Z_BRK_NO
+Added Pin To Net: NetName=Z_DIR Pin=J1-8
+Added Pin To Net: NetName=Z_DIR Pin=J6-8
+Added Net: Name=Z_DIR
+Added Pin To Net: NetName=Z_ENABLE Pin=J1-9
+Added Pin To Net: NetName=Z_ENABLE Pin=U3-1
+Added Net: Name=Z_ENABLE
+Added Pin To Net: NetName=Z_N-OT Pin=J6-5
+Added Pin To Net: NetName=Z_N-OT Pin=U3-14
+Added Net: Name=Z_N-OT
+Added Pin To Net: NetName=Z_NEG_LIMIT Pin=JP5-3
+Added Pin To Net: NetName=Z_NEG_LIMIT Pin=JP6-3
+Added Pin To Net: NetName=Z_NEG_LIMIT Pin=U3-3
+Added Net: Name=Z_NEG_LIMIT
+Added Pin To Net: NetName=Z_P-OT Pin=J6-4
+Added Pin To Net: NetName=Z_P-OT Pin=U3-15
+Added Net: Name=Z_P-OT
+Added Pin To Net: NetName=Z_POS_LIMIT Pin=JP5-1
+Added Pin To Net: NetName=Z_POS_LIMIT Pin=JP6-1
+Added Pin To Net: NetName=Z_POS_LIMIT Pin=U3-2
+Added Net: Name=Z_POS_LIMIT
+Added Pin To Net: NetName=Z_STEP Pin=J1-7
+Added Pin To Net: NetName=Z_STEP Pin=J6-6
+Added Net: Name=Z_STEP
+Added Pin To Net: NetName=Z_TOP Pin=J2-6
+Added Pin To Net: NetName=Z_TOP Pin=J18-5
+Added Pin To Net: NetName=Z_TOP Pin=JP5-2
+Added Pin To Net: NetName=Z_TOP Pin=R10-2
+Added Net: Name=Z_TOP
+Added Class: Name=ESS-BoB
