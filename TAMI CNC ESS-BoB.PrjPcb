@@ -46,7 +46,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -56,17 +56,34 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKFBHKTD
 
+[Document2]
+DocumentPath=ESS-BoB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OCFMXITG
+
 [Parameter1]
-Name=ProjectVersion
-Value=v1.0
+Name=PcbPartNumber
+Value=
 
 [Parameter2]
 Name=ProjectTitle
 Value=TAMI CNC - ESS Breakout Board
 
 [Parameter3]
-Name=PcbPartNumber
-Value=
+Name=ProjectVersion
+Value=v1.0
 
 [Configuration1]
 Name=Default Configuration
