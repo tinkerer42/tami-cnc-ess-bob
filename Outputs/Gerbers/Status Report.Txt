@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [ESS-BoB.PcbDoc]
+   Generated File[ESS-BoB.TXT]
+   Generated File[ESS-BoB.LDP]
+   Generated File[ESS-BoB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 02:10:25 On 25/09/18

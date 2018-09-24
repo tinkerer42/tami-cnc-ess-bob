@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ESS-BoB.PcbDoc   25/09/18  02:10:25
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : ESS-BoB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             102       PTH        0.00inch (0.00mm)
+T2      32mil (0.8mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T3      35mil (0.9mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T4      39mil (1mm)                                               Round             109       PTH        0.00inch (0.00mm)
+T5      40mil (1.016mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T6      40mil (1.02mm)                                            Round             78        PTH        0.00inch (0.00mm)
+T7      43mil (1.1mm)                                             Round             18        PTH        0.00inch (0.00mm)
+T8      55mil (1.4mm)                                             Round             29        PTH        0.00inch (0.00mm)
+T9      63mil (1.6mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T10     126mil (3.2mm)                                            Round             8         PTH        0.00inch (0.00mm)
+T11     161mil (4.1mm)                                            Round             6         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              360
+
+Total Processing Time (hh:mm:ss) : 00:00:00

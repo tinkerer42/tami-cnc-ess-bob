@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: D:\Projects\CNC\tami-cnc-ess-bob\ESS-BoB.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_Mounting_Hole_Chassis_GND|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance_HV|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Stitching Via clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
